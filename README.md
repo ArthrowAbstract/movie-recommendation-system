@@ -1,21 +1,26 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ (Movie Recommendation System)
 ```
 
-Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arthrowabstract-movie-recommendation-syste-streamlit-app-my6bk3.streamlit.app/)
 
-## Section Heading
+## Libraries Used 💿
 
-This is filler text, please replace this with text for this section.
+* Numpy
+* Pandas
+* ast
+* NLTK
+* Sklearn
+* Pickle
 
-## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+## Software Requirements ⚙🔧
+
+* Jupyter Notebook
+* PyCharm Editor
+* Git GUI
+* Git Bash
