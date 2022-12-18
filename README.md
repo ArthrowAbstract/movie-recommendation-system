@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+#  Movie Recommendation System
 ```
 ⬆️ (Movie Recommendation System)
 ```
